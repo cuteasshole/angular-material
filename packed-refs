@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+328569198041b76e77b59ee19f6e7dec2815462a refs/heads/es5
+8a7f3da42a95f99cd73c71fd4a2985dca0d2d23a refs/heads/es5-tutorial
+cbe966354b29e35a6a0eb0653ea5a072bc1e3301 refs/heads/es6
+d8176521e98d1cb8d4ad376f1fbb4b94aa2003bf refs/heads/master
